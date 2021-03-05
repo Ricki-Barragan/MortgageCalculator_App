@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MortgageCalculator</string>
+    <string name="principal">Principal</string>
+    <string name="interestRate">Interest Rate</string>
+
+    <string name="loanTerm">Loan Term</string>
+    <string name="years1">15 years</string>
+    <string name="years2">20 years</string>
+    <string name="years3">30 years</string>
+    <string name="TaxesAndInsurance">Taxes and Insurance:</string>
+    <string name="Calc">Calculate</string>
+    <string name="monthlyPayment">Monthly Payments:</string>
+
+    <string name="seekBarValue">10.0</string>
+
+
+</resources>
